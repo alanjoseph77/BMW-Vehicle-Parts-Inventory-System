@@ -7,7 +7,7 @@ The **Automated Inventory Management Dashboard** is a Power BI solution designed
 This dashboard reduces manual reporting time by providing predictive stock alerts and interactive analytics for better operational decision-making.
 
 <p align="center">
-  <img src="bmw1.png" width="350">
+  <img src="bmw1.png" width="900">
 </p>
 
 ---
